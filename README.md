@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on anything that yields a positive free cash flow
 - 📫 How to reach me: aadabathon@gmail.com
 - 😄 Pronouns: him
-- ⚡ Fun fact: I an awesome
+- ⚡ Fun fact: I am awesome
 
 <!---
 aadabathon/aadabathon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
